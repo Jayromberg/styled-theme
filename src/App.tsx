@@ -1,7 +1,7 @@
-import GlobalStateProvider from "./GlobalStateProvider";
-import GlobalStyle from "./GlobalStyle";
-import StyleProvider from "./StyleProvider";
-import Theme from './Theme';
+import GlobalStateProvider from "./context/GlobalStateProvider";
+import GlobalStyle from "./ui/GlobalStyle";
+import StyleProvider from "./ui/StyleProvider";
+import Theme from './components/Theme';
 
 function App() {
   return (

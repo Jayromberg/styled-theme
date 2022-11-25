@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 import Button from "./Button";
-import GlobalStateContext from "./GlobalStateContext";
+import GlobalStateContext from "../context/GlobalStateContext";
 
 function Theme() {
   const { isDarkTheme, changeBetweenThemes } = useContext(GlobalStateContext);

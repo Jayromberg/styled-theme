@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import GlobalStateContext from './GlobalStateContext';
-import IChildren from './IChildren';
+import IChildren from '../interfaces/IChildren';
 
 function GlobalStateProvider({ children }: IChildren ) {
   const [isDarkTheme, changeBetweenThemes] = useState(false);

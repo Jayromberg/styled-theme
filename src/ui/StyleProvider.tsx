@@ -1,7 +1,7 @@
 import { useContext } from 'react';
 import { ThemeProvider } from 'styled-components';
-import GlobalStateContext from './GlobalStateContext';
-import IChildren from './IChildren';
+import GlobalStateContext from '../context/GlobalStateContext';
+import IChildren from '../interfaces/IChildren';
 
 function StyleProvider({ children }: IChildren) {
   const { isDarkTheme } = useContext(GlobalStateContext);
