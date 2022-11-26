@@ -1,6 +1,6 @@
 # Projeto Styled Theme
 
-O Styled Theme foi criado com o intuito de demonstrar o desenvolvimento do sistema de troca de tema numa aplicação React e Styled-Components.
+O Styled Theme foi criado com o intuito de demonstrar o desenvolvimento do sistema de troca de tema em uma aplicação React com Styled-Components.
 
 ## Rodando localmente
 
@@ -32,6 +32,8 @@ Inicie a aplicação
 
 - Temas dark e light
 
-## Demonstração
+## Demonstração!
 
-Insira um gif ou um link de alguma demonstração
+[Peek 26-11-2022 12-11](https://user-images.githubusercontent.com/95861623/204096088-193f3b30-30f0-4394-80ae-9f5ebd1ec454.gif)
+
+
